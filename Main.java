@@ -20,7 +20,7 @@ class Main {
     do {
 			System.out.println( "Press 1 to learn about salary." + "\n" +
                           "Press 2 to learn about the job." + "\n" +
-                          "Press 3 to learn about demands." + "\n" +
+                          "Press 3 to learn about demand." + "\n" +
                           "Press 4 to view current students." + "\n" +
                           "Press 5 to quit."
                         ); 
