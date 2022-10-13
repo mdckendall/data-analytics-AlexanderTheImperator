@@ -29,16 +29,16 @@ class Main {
 			input = Scanner.nextInt();
       
 			if(input == 1){
-        System.out.println("1$ per hour");
+        System.out.println("$98,345 average salary in South Florida!");
       }
       if(input == 2){
-        System.out.println("Roblox game developer make games for children!");
+        System.out.println("US News - 100 Best Jobs!");
       }
 			if(input == 3){
-        System.out.println("Your chances of getting hired is nothing. Start your own game, that is how you will get the job!");
+        System.out.println("Top 10 Forbes In-Demand Jobs!");
       }
 			if(input == 4){
-        System.out.println("Current Students: ");
+        System.out.println("Current Students:");
 				for(String s : arrayList){
 					System.out.println(s);
 				}
